@@ -1,0 +1,12 @@
+C:\Skeletonc\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Skeletonc\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skeletonc\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Skeletonc\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Skeletonc\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Skeletonc\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Skeletonc\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Skeletonc\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Skeletonc\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Skeletonc\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Skeletonc\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Skeletonc\Dominio\obj\Debug\net7.0\ref\Dominio.dll

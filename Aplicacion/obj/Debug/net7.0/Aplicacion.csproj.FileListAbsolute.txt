@@ -1,0 +1,17 @@
+C:\Skeletonc\Aplicacion\bin\Debug\net7.0\Aplicacion.deps.json
+C:\Skeletonc\Aplicacion\bin\Debug\net7.0\Aplicacion.dll
+C:\Skeletonc\Aplicacion\bin\Debug\net7.0\Aplicacion.pdb
+C:\Skeletonc\Aplicacion\bin\Debug\net7.0\Dominio.dll
+C:\Skeletonc\Aplicacion\bin\Debug\net7.0\Persistencia.dll
+C:\Skeletonc\Aplicacion\bin\Debug\net7.0\Dominio.pdb
+C:\Skeletonc\Aplicacion\bin\Debug\net7.0\Persistencia.pdb
+C:\Skeletonc\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Skeletonc\Aplicacion\obj\Debug\net7.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skeletonc\Aplicacion\obj\Debug\net7.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Skeletonc\Aplicacion\obj\Debug\net7.0\Aplicacion.AssemblyInfo.cs
+C:\Skeletonc\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Skeletonc\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.CopyComplete
+C:\Skeletonc\Aplicacion\obj\Debug\net7.0\Aplicacion.dll
+C:\Skeletonc\Aplicacion\obj\Debug\net7.0\refint\Aplicacion.dll
+C:\Skeletonc\Aplicacion\obj\Debug\net7.0\Aplicacion.pdb
+C:\Skeletonc\Aplicacion\obj\Debug\net7.0\ref\Aplicacion.dll

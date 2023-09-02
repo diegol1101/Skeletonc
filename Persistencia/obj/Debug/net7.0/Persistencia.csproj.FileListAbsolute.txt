@@ -1,0 +1,15 @@
+c:\Skeletonc\Persistencia\bin\Debug\net7.0\Persistencia.deps.json
+C:\Skeletonc\Persistencia\bin\Debug\net7.0\Persistencia.dll
+C:\Skeletonc\Persistencia\bin\Debug\net7.0\Persistencia.pdb
+C:\Skeletonc\Persistencia\bin\Debug\net7.0\Dominio.dll
+C:\Skeletonc\Persistencia\bin\Debug\net7.0\Dominio.pdb
+C:\Skeletonc\Persistencia\obj\Debug\net7.0\Persistencia.csproj.AssemblyReference.cache
+C:\Skeletonc\Persistencia\obj\Debug\net7.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skeletonc\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfoInputs.cache
+C:\Skeletonc\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfo.cs
+C:\Skeletonc\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CoreCompileInputs.cache
+c:\Skeletonc\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CopyComplete
+C:\Skeletonc\Persistencia\obj\Debug\net7.0\Persistencia.dll
+C:\Skeletonc\Persistencia\obj\Debug\net7.0\refint\Persistencia.dll
+C:\Skeletonc\Persistencia\obj\Debug\net7.0\Persistencia.pdb
+c:\Skeletonc\Persistencia\obj\Debug\net7.0\ref\Persistencia.dll
